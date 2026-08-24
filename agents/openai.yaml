@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guided Paper Reading"
+  short_description: "Read papers through adaptive Socratic dialogue"
+  default_prompt: "Use $paper-reading-skill to guide me through a research paper interactively, starting with prerequisites and writing notes only after I confirm understanding."
